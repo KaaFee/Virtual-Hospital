@@ -39,3 +39,9 @@ To run the Virtual Hospital project, ensure you have Java Development Kit (JDK) 
    ```bash
    java -cp bin Main
    ```
+##Glimpse of the project
+![image](https://github.com/KaaFee/Virtual-Hospital/assets/84761238/7c9b7db3-a303-447c-b23b-450b5c5305b3)
+![image (1)](https://github.com/KaaFee/Virtual-Hospital/assets/84761238/7ea33ad9-18f8-445f-9bcd-235b1551d902)
+![image (2)](https://github.com/KaaFee/Virtual-Hospital/assets/84761238/7a956286-2bcf-4d8d-a95a-c3ce207b62d7)
+![image (3)](https://github.com/KaaFee/Virtual-Hospital/assets/84761238/0b5267e2-1cca-4aa1-be6c-03fab0f9f089)
+![image (4)](https://github.com/KaaFee/Virtual-Hospital/assets/84761238/3ce3e823-2640-435a-b3bc-79f931ef8f0b)
